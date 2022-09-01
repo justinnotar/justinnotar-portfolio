@@ -35,18 +35,18 @@ const projects = [
 ]
 
 const skills = [
+  'React',
+  'JavaScript',
+  'Java',
+  'Python',
   'HTML',
   'CSS',
-  'JavaScript',
-  'TypeScript',
-  'React',
-  'Angular',
-  'Material UI',
-  'SQL',
-  'Java',
-  'Spring Boot',
+  'Spring',
+  'Django',
+  'MySQL',
   'Figma',
-  'Git'
+  'Scrum',
+  'Atlassian'
 ]
 
 const contact = {
