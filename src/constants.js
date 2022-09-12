@@ -43,10 +43,10 @@ const skills = [
   'CSS',
   'Spring',
   'Django',
-  'MySQL',
+  'Storybook',
   'Figma',
+  'MySQL',
   'Scrum',
-  'Atlassian'
 ]
 
 const contact = {
