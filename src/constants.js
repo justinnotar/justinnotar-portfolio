@@ -36,7 +36,7 @@ const projects = [
 
 const skills = [
   'React',
-  'JavaScript',
+  'TypeScript',
   'Java',
   'Python',
   'HTML',
