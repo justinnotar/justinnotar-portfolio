@@ -5,7 +5,7 @@ const header = {
 
 const about = {  
   name: 'justin',
-  role: 'frontend software engineer',
+  role: 'full stack software engineer',
   description:
     'innovative and entrepreneurially-minded software engineer with 3+ years’ experience of react.js development',
   resume: 'https://drive.google.com/file/d/1pkQqOoq_p3GNd9geor4K4SQ87-VLl4gT/view?usp=sharing',
