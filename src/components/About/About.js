@@ -24,14 +24,6 @@ const About = () => {
       <p className='about-desc center'>{description}.</p>
 
       <div className='about-contact center'>
-        {resume && (
-          <a href={resume} target="_blank">
-            <span type='button' className='btn btn--outline'>
-              resume
-            </span>
-          </a>
-        )}
-
         {social && (
           <>
             {social.github && (
