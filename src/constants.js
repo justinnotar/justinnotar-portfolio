@@ -17,20 +17,33 @@ const about = {
 
 const projects = [
   {
-    name: 'Opendemia',
+    name: 'can my cat eat xyz?',
+    class: 'cat',
     description:
-      'Opendemia makes research and writing easy! We\'ll generate a works cited in MLA, APA, Chicago, and AMA formats, and allow you to store any quotes and notes.',
-    // stack: ['react', 'javascript', 'html', 'css'],
-    sourceCode: 'https://github.com/Opendemia',
-    livePreview: 'https://www.opendemia.com/',
+      "cat nutrition search engine, powered by OpenAI's gpt-3.5-turbo model",
+    // stack: ['html', 'css'],
+    sourceCode: 'https://github.com/justinnotar/can-my-cat-eat-xyz-v2',
+    livePreview: 'https://can-my-cat-eat-xyz-v2-55578.web.app/',
   },
   {
-    name: 'Crater Clothing',
+    name: 'crater clothing',
+    class: 'crater',
     description:
-      'E-commerce clothing company integrated with Printful for print-on-demand services and Shopify for peer-to-peer payments, order handling, and social media marketing.',
+      // 'e-commerce clothing brand integrated with Printful and Shopify for print-on-demand servicing',
+      'e-commerce clothing company with print-on-demand integration',
     // stack: ['html', 'css'],
     sourceCode: 'https://github.com/justinnotar/crater',
     livePreview: 'https://crater-684c7.web.app',
+  },
+  {
+    name: 'opendemia',
+    class: 'opendemia',
+    description:
+      // 'research and writing assistant that generates full works cited and in-text citations for students',
+      'citation generator and writing assistant for research students',
+    // stack: ['react', 'javascript', 'html', 'css'],
+    sourceCode: 'https://github.com/Opendemia',
+    livePreview: 'https://www.opendemia.com/',
   }
 ]
 

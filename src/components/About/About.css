@@ -6,6 +6,7 @@
 .about-pic {
   width: 40%;
   margin: auto;
+  border-radius: 10px;
 }
 
 .about-name {
@@ -54,4 +55,8 @@
     margin-top: 0.5em;
   }
 
+}
+
+.button {
+  border-radius: 5px;
 }

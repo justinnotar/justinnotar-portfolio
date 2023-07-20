@@ -1,21 +1,58 @@
 .project {
-  padding: 2em;
+  padding: 1em;
   margin: 0 auto;
   text-align: center;
-  box-shadow: var(--shadow);
+  /* box-shadow: var(--shadow); */
+  border: 2px solid var(--clr-fg);
+  border-radius: 10px;
   transition: transform 0.2s linear;
-  height: auto;
   color: var(--clr-fg-alt);
-  background: rgba(0,0,0,0);
-  /* background-image: url('../../images/opendemia.jpg'); */
+}
+
+.project-opendemia {
+  background-color: rgb(26,36,65,0.25);
+}
+
+.project-crater {
+  background-color: rgb(27,22,32,0.25);
+}
+
+.project-cat {
+  background-color: rgb(242,228,254,0.25);
+}
+
+.project-image {
+  margin-top: 1em;
+  height: 265px;
+  border-radius: 10px;
+  background-position: center top;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.opendemia {
+  background-image: url('../../images/opendemia.jpg');
+}
+
+.crater {
+  background-image: url('../../images/crater.jpg');
+}
+
+.cat {
+  background-image: url('../../images/cat.jpg')
 }
 
 .project:hover {
   transform: translateY(-7px);
 }
 
+.project-title {
+  background-color: rgb(0,0,0,0);
+}
+
 .project-description {
-  margin-top: 1em;
+  padding-top: 0.5em;
+  background-color: rgb(0,0,0,0);
 }
 
 .project-stack {
