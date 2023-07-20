@@ -30,7 +30,7 @@ const projects = [
       'E-commerce clothing company integrated with Printful for print-on-demand services and Shopify for peer-to-peer payments, order handling, and social media marketing.',
     // stack: ['html', 'css'],
     sourceCode: 'https://github.com/justinnotar/crater',
-    livePreview: 'https://www.craterclothing.com',
+    livePreview: 'https://crater-684c7.web.app',
   }
 ]
 
