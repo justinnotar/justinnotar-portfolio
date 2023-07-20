@@ -37,16 +37,16 @@ const projects = [
 const skills = [
   'React',
   'TypeScript',
-  'Java',
-  'Python',
+  'Cypress',
+  'Jest',
   'HTML',
   'CSS',
-  'Spring',
-  'Django',
+  'Angular',
+  'GraphQL',
   'Storybook',
   'Figma',
-  'MySQL',
-  'Scrum',
+  'Java',
+  'Python',
 ]
 
 const contact = {
