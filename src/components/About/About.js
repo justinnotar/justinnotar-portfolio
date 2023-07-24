@@ -8,7 +8,7 @@ import me_teal from "../../images/me-teal.png"
 import './About.css'
 
 const About = () => {
-  const {photo, name, role, description, resume, social } = about
+  const { name, role, description, resume, social } = about
   const [{ themeName }] = useContext(ThemeContext)
 
   return (
