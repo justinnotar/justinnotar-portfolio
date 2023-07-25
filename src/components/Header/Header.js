@@ -1,4 +1,4 @@
-import { header } from '../../constants'
+import { header } from '../../assets/content'
 import Navbar from '../Navbar/Navbar'
 import './Header.css'
 

@@ -1,5 +1,5 @@
 import uniqid from 'uniqid'
-import { projects } from '../../constants'
+import { projects } from '../../assets/content'
 import ProjectContainer from '../ProjectContainer/ProjectContainer'
 import './Projects.css'
 

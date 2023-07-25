@@ -1,4 +1,4 @@
-import { contact } from '../../constants'
+import { contact } from '../../assets/content'
 import './Contact.css'
 
 const Contact = () => {

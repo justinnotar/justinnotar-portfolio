@@ -1,6 +1,6 @@
 import GitHubIcon from '@material-ui/icons/GitHub'
 import LinkedInIcon from '@material-ui/icons/LinkedIn'
-import { about } from '../../constants'
+import { about } from '../../assets/content'
 import { ThemeContext } from '../../contexts/theme'
 import { useContext } from 'react'
 import me_orange from "../../images/me-orange.png"

@@ -1,5 +1,5 @@
 import uniqid from 'uniqid'
-import { skills } from '../../constants'
+import { skills } from '../../assets/content'
 import './Skills.css'
 
 const Skills = () => {
