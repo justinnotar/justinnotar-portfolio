@@ -7,7 +7,7 @@ const about = {
   name: 'justin',
   role: 'a full stack software engineer',
   description:
-    'innovative and entrepreneurially-minded software engineer specialized in react & typescript development',
+    'innovative and entrepreneurially-minded software engineer specialized in React & Typescript development',
   resume: 'https://drive.google.com/file/d/1pkQqOoq_p3GNd9geor4K4SQ87-VLl4gT/view?usp=sharing',
   social: {
     linkedin: 'https://www.linkedin.com/in/justin-notarfrancesco/',
