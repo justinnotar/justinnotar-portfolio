@@ -20,16 +20,16 @@
 }
 
 .about-role {
+  color: var(--clr-secondary);
+}
+
+.about-desc {
+  font-size: 1.2rem;
+  max-width: 600px;
   margin: auto;
   margin-top: 1.2em;
 }
 
-.about-desc {
-  font-size: 1rem;
-  max-width: 600px;
-}
-
-.about-desc,
 .about-contact {
   margin: auto;
   margin-top: 2.4em;

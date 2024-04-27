@@ -10,7 +10,8 @@ const Header = () => {
       <h3>
         {homepage ? (
           <a href={homepage} className='link'>
-            {title}
+            <span className='link-name'>{title}</span>
+            <span>.com</span>
           </a>
         ) : (
           title

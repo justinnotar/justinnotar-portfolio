@@ -1,5 +1,5 @@
-import GitHubIcon from '@material-ui/icons/GitHub'
-import LinkedInIcon from '@material-ui/icons/LinkedIn'
+import GitHubIcon from '@mui/icons-material/GitHub';
+import LinkedInIcon from '@mui/icons-material/LinkedIn';
 import { about } from '../../assets/content'
 import { ThemeContext } from '../../contexts/theme'
 import { useContext } from 'react'
@@ -16,11 +16,10 @@ const About = () => {
       <img className='about-pic' alt='Profile picture' src={themeName === 'dark' ? me_orange : me_teal}/>
       {name && (
         <h1 className='about-name'>
-          hi, i'm <span className='first-name'>{name}</span>
+          <span className='first-name'>{name}</span>: <span className='about-role'><i>{role}</i></span>
         </h1>
       )}
 
-      {role && <h2 className='about-role'>{role}</h2>}
       <p className='about-desc center'>{description}</p>
 
       <div className='about-contact center'>

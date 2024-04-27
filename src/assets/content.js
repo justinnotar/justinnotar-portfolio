@@ -1,13 +1,13 @@
 const header = {
   homepage: '/',
-  title: 'notar.dev'
+  title: 'justinnotar'
 }
 
 const about = {  
   name: 'justin',
-  role: 'a full stack software engineer',
+  role: 'developer',
   description:
-    'innovative and entrepreneurially-minded software engineer specialized in React & Typescript development',
+    'full-stack software engineer specialized in Typescript with React',
   resume: 'https://drive.google.com/file/d/1pkQqOoq_p3GNd9geor4K4SQ87-VLl4gT/view?usp=sharing',
   social: {
     linkedin: 'https://www.linkedin.com/in/justin-notarfrancesco/',
