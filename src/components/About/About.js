@@ -11,9 +11,10 @@ const About = () => {
   const { name, role, description, resume, social } = about
   const [{ themeName }] = useContext(ThemeContext)
 
+
   return (
     <div className='about center'>
-      <img className='about-pic' alt='Profile picture' src={themeName === 'dark' ? me_orange : me_teal}/>
+      <img className='about-pic floating' alt='Profile picture' src={themeName === 'dark' ? me_orange : me_teal}/>
       {name && (
         <h1 className='about-name'>
           <span className='first-name'>{name}</span>: <span className='about-role'><i>{role}</i></span>

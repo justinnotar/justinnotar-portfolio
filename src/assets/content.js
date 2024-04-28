@@ -22,8 +22,17 @@ const projects = [
     description:
       "cat nutrition search engine, powered by OpenAI's gpt-3.5-turbo model",
     // stack: ['html', 'css'],
-    sourceCode: 'https://github.com/justinnotar/can-my-cat-eat-xyz-v2',
+    // sourceCode: 'https://github.com/justinnotar/can-my-cat-eat-xyz-v2',
     livePreview: 'https://can-my-cat-eat-xyz-v2-55578.web.app/',
+  },
+  {
+    name: 'nyc high school search',
+    class: 'nyc',
+    description:
+      "high school search engine with NYC OpenData integration",
+    // stack: ['html', 'css'],
+    // sourceCode: 'https://github.com/justinnotar/can-my-cat-eat-xyz-v2',
+    livePreview: 'https://nyc-hs-search.web.app',
   },
   {
     name: 'crater clothing',
@@ -32,7 +41,7 @@ const projects = [
       // 'e-commerce clothing brand integrated with Printful and Shopify for print-on-demand servicing',
       'e-commerce clothing brand with print-on-demand Shopify integration',
     // stack: ['html', 'css'],
-    sourceCode: 'https://github.com/justinnotar/crater',
+    // sourceCode: 'https://github.com/justinnotar/crater',
     livePreview: 'https://crater-684c7.web.app',
   },
   {
@@ -42,7 +51,7 @@ const projects = [
       // 'research and writing assistant that generates full works cited and in-text citations for students',
       'citation generator and writing assistant for research students',
     // stack: ['react', 'javascript', 'html', 'css'],
-    sourceCode: 'https://github.com/Opendemia',
+    // sourceCode: 'https://github.com/Opendemia',
     livePreview: 'https://www.opendemia.com/',
   }
 ]

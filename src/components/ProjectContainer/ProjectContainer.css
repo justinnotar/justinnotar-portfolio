@@ -21,6 +21,10 @@
   background-color: rgb(242,228,254,0.25);
 }
 
+.project-nyc {
+  background-color: rgb(0,137,124,0.25);
+}
+
 .project-image {
   margin-top: 1em;
   height: 265px;
@@ -40,6 +44,10 @@
 
 .cat {
   background-image: url('../../images/cat.jpg')
+}
+
+.nyc {
+  background-image: url('../../images/nyc.jpg');
 }
 
 .project:hover {
