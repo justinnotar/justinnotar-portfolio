@@ -26,6 +26,15 @@ const projects = [
     livePreview: 'https://can-my-cat-eat-xyz-v2-55578.web.app/',
   },
   {
+    name: 'mike notar art',
+    class: 'mike',
+    description:
+      "online art store and portfolio, created using Squarespace",
+    // stack: ['html', 'css'],
+    // sourceCode: 'https://github.com/justinnotar/can-my-cat-eat-xyz-v2',
+    livePreview: 'https://mikenotar.com',
+  },
+  {
     name: 'nyc high school search',
     class: 'nyc',
     description:

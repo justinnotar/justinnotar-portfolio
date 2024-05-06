@@ -25,6 +25,10 @@
   background-color: rgb(0,137,124,0.25);
 }
 
+.project-mike {
+  background-color: rgb(224,185,72,0.25);
+}
+
 .project-image {
   margin-top: 1em;
   height: 265px;
@@ -48,6 +52,10 @@
 
 .nyc {
   background-image: url('../../images/nyc.jpg');
+}
+
+.mike {
+  background-image: url('../../images/mike.jpg');
 }
 
 .project:hover {
